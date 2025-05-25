@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Marion
 
-🌱 Full stack developer in the making at **La Capsule** (batch 2025)
+🌱 Full stack developer in the making at **La Capsule** (batch 2025)  
 🔧 Starting a **DevOps apprenticeship** in September 2025, also at La Capsule — ready to bridge the gap between development and operations.  
 💻 Currently building with: `React`, `Node`, `Express`, `MongoDB`... but always curious to explore more.  
 🎨 Coding by day and crafting by heart: **pottery, embroidery**, and all kinds of handmade creations.  
